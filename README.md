@@ -55,9 +55,9 @@
     alt="VS Code"
     height="80"
     width="80"
-    src="https://github.com/sakshi012000/sakshi012000/blob/main/assets/visualstudio-plain.svg" />
+    src="https://github.com/sakshi012000/sakshi012000/blob/main/assets/visual-studio-code-logo.png" />
 </a>
-<a href="atom.io">
+<a href="https://atom.io/">
   <img 
     alt="Atom"
     height="80"
@@ -76,7 +76,7 @@
     alt="Trello"
     height="80"
     width="80"
-    src="https://github.com/sakshi012000/sakshi012000/blob/main/assets/pycharm.png" />
+    src="https://github.com/sakshi012000/sakshi012000/blob/main/assets/download.jpg" />
 </a>
 
 
