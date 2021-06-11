@@ -123,6 +123,13 @@
     width="80"
     src="https://github.com/sakshi012000/sakshi012000/blob/main/assets/darknet-1.png" />
 </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/">
+  <img
+    alt="React"
+    height="80"
+    width="80"
+    src="https://github.com/sakshi012000/sakshi012000/blob/main/assets/flask.png" />
+</a>
 
 <br>
 
