@@ -116,12 +116,12 @@
 
 **Frameworks**
 
-<a href="https://reactjs.org/">
+<a href="https://pjreddie.com/darknet/">
   <img
     alt="React"
     height="80"
     width="80"
-    src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/react-original.svg" />
+    src="https://github.com/sakshi012000/sakshi012000/blob/main/assets/darknet-1.png" />
 </a>
 
 <br>
