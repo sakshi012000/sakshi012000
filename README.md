@@ -136,7 +136,7 @@
 <hr>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sakshi012000&show_icons=true&theme=dark&line_height=40">
-  <!--<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi012000&theme=dark">-->
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi012000&theme=dark">
 </p>
 
 <hr>
